@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Tarefas Programação\programas-testes\programas-testes\bin\Debug\programas-testes.exe.config
+C:\Users\Usuario\Desktop\Tarefas Programação\programas-testes\programas-testes\bin\Debug\programas-testes.exe
+C:\Users\Usuario\Desktop\Tarefas Programação\programas-testes\programas-testes\bin\Debug\programas-testes.pdb
+C:\Users\Usuario\Desktop\Tarefas Programação\programas-testes\programas-testes\obj\Debug\programas-testes.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarefas Programação\programas-testes\programas-testes\obj\Debug\programas-testes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarefas Programação\programas-testes\programas-testes\obj\Debug\programas-testes.exe
+C:\Users\Usuario\Desktop\Tarefas Programação\programas-testes\programas-testes\obj\Debug\programas-testes.pdb
